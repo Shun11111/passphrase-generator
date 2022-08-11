@@ -36,11 +36,11 @@ To run the program, open the file ```passphrase_generator.exe```. When the progr
 
 ## Changelog
 
-See the [CHANGELOG.md]() file for the latest changelog.
+See the [CHANGELOG.md](https://github.com/PyDevJohn/passphrase-generator/blob/main/CHANGELOG.md) file for the latest changelog.
 
 ## License
 
-- This project is licensed under the MIT License. See the [LICENSE.md]() file for further details.
+- This project is licensed under the MIT License. See the [LICENSE.md](https://github.com/PyDevJohn/passphrase-generator/blob/main/LICENSE) file for further details.
 
 ## Acknowledgments
 
