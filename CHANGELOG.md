@@ -8,10 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### (Upcoming changes)
 - N/A
 
-## [1.0.0] - 2022-08-XX
+## [1.0.0] - 2022-08-10
 ### Added
 #### (New features)
-- *[Another](https://github.com/search?q=XKCD+Password+Generator)* passphrase generator based on [XKCD #936](https://xkcd.com/936). This command line generator, written in Python 3, creates a random passphrase primarily using the Python secrets module and specific books from [Project Gutenberg](https://gutenberg.org).
+- *[Another](https://github.com/search?q=XKCD+Password+Generator)* passphrase generator based on [XKCD #936](https://xkcd.com/936). This command line generator, written in Python 3, creates a random passphrase primarily using the Python secrets module and specific books from [Project Gutenberg](https://gutenberg.org), and further generates information on an estimated time to crack the passphrase using [zxcvbn-python](https://github.com/dwolfhub/zxcvbn-python).
 
 ### Changed
 #### (Changes in existing functionality)
