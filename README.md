@@ -28,7 +28,7 @@ Use due diligence with any password generator you use.
 
 ### Installing
 
-- The standalone executable is compressed in a zip folder. Once you unzip the folder, you may run the program by running ```passphrase_generator.exe```. Additionally, you may replace the four default books used, which are located in the ```books``` folder. The book file names must not be changed.
+The standalone executable is compressed in a zip folder. Once you unzip the folder, you may run the program by running ```passphrase_generator.exe```. Additionally, you may replace the four default books used, which are located in the ```books``` folder. The book file names must not be changed.
 
 ### Executing program
 
@@ -40,7 +40,7 @@ See the [CHANGELOG.md](https://github.com/PyDevJohn/passphrase-generator/blob/ma
 
 ## License
 
-- This project is licensed under the MIT License. See the [LICENSE.md](https://github.com/PyDevJohn/passphrase-generator/blob/main/LICENSE) file for further details.
+This project is licensed under the MIT License. See the [LICENSE.md](https://github.com/PyDevJohn/passphrase-generator/blob/main/LICENSE) file for further details.
 
 ## Acknowledgments
 
@@ -49,4 +49,4 @@ See the [CHANGELOG.md](https://github.com/PyDevJohn/passphrase-generator/blob/ma
 
 ## Contributing
 
-Contributions are welcomed and appreciated! Please use [GitHub Docs](https://docs.github.com/) for guides on how to use Git, GitHub, and how to contribute. The only two requirements before submitting your code is the [pytest](https://github.com/pytest-dev/pytest) ```tests.py``` file passes its tests, and your code is run through [Black](https://github.com/psf/black).
+Contributions are welcomed and appreciated! Please use [GitHub Docs](https://docs.github.com/) for guides on how to use Git, GitHub, and how to contribute. The only two requirements before submitting your code are the [pytest](https://github.com/pytest-dev/pytest) ```tests.py``` file passes its tests, and your code is run through [Black](https://github.com/psf/black).
